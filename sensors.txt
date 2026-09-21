@@ -1,1 +1,2 @@
 File contains info bout sensors
+Sensors are used to detect changes in crops.
